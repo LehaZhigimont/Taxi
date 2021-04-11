@@ -24,7 +24,7 @@
 + #### Show on screenboard
      + To show the number on the screnboard, the uses a special program for LED panels HDPlayer, when loaded into the image program area, displays this image on the screenboard. It was revealed that HDPlayer uses a tempfolder in which the current image is located. From this it followed that my methods would substitute the necessary images in this folder for displaying on the board of the screen.
 + #### Print coupon
-     + //TODO
+     + A coupon with a queue number is printed at the time of customer registration, when the button is pressed, the customer is recorded in the program, show on the screenboard and the coupon is printed. There is also a method that allows you to change some information on the coupon.
 + #### Сall on a speakerphone
      + //TODO
 + #### Mooving in queue
