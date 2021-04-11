@@ -22,7 +22,7 @@
     + The queue is filled in turn, but some clients also have a priority, in this case the program has some methods for moving such clients in turn.
     + The program has the ability to view the history of the queue of past days. Some methods read and write history to files on the computer.
 + #### Show on screenboard
-     + //TODO
+     + To show the number on the screnboard, the uses a special program for LED panels HDPlayer, when loaded into the image program area, displays this image on the screenboard. It was revealed that HDPlayer uses a tempfolder in which the current image is located. From this it followed that my methods would substitute the necessary images in this folder for displaying on the board of the screen.
 + #### Print coupon
      + //TODO
 + #### Сall on a speakerphone
