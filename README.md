@@ -20,6 +20,7 @@
 
 + #### Ordered queue
     + The queue is filled in turn, but some clients also have a priority, in this case the program has some methods for moving such clients in turn.
+    + The program has the ability to view the history of the queue of past days. Some methods read and write history to files on the computer.
 + #### Show on screenboard
      + //TODO
 + #### Print coupon
