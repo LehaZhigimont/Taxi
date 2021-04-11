@@ -11,7 +11,7 @@
   
 ---
 
-<h7> This program works with third party applications such as HDPlayer which displays information on the screenboard.
+<h7> This program works with third party applications such as HDPlayer which displays information on the screenboard. It implements a line of taxis on the territory of the Minsk National Airport. Designed to control the queue. The screenboard show the current count and sequence. When registering a client, a coupon with a number is printed, if the client has a priority, it moves in the queue.
   
 ---
 ### <h7> Detailed about the project and [main tasks](https://github.com/LehaZhigimont/Taxi/blob/main/README.md#Main-tasks-of-this-project).
