@@ -9,10 +9,11 @@
   + Mooving in queue
   + [Up](https://github.com/LehaZhigimont/Taxi/blob/main/README.md#java-project-implemting-queuetaxi)
 
-======================================================================================
+
+-------------
 
 <h7> This program works with third party applications such as HDPlayer which displays information on the screen.
   
-======================================================================================
+---------
   
   
