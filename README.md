@@ -7,3 +7,4 @@
   + Show on screen
   + Print coupon
   + Сall on a speakerphone
+  + Mooving in queue
