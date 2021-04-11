@@ -32,6 +32,8 @@
  
 ---
 ### My thoughts for this project
+
+Of course this project is subject to a very large upgrade. Now I am at the level of a young developer and devote more time to learning new technologies. But in the future I have plans to improve this project using newer technologies.
 ---
 Thanks!
 
