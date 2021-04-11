@@ -28,7 +28,7 @@
 + #### Сall on a speakerphone
      + When you press the "next" button, the sound is played through the speakers. Sounds are recorded in a file up to a certain amount, then, according to the idea of the program, the maximum number of 100 clients, then reset to zero.
 + #### Mooving in queue
-     + //TODO
+     + If the customer has a priority, the queue is moved over no longer priority ones.
  
  
 ---
