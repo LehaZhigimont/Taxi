@@ -5,11 +5,14 @@
 #Other files
 *.lock
 *.gen
+*.iml
+*.dat
 
 #Folders
 /.metadata/.plugins/*
 /.recommenders/*
 /RemoteSystemsTempFiles/*
+/.idea/*
 
 # Log file
 *.log
