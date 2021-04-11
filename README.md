@@ -21,13 +21,17 @@
 + #### Ordered queue
     + //TODO
 + #### Show on screen
+     + //TODO
 + #### Print coupon
+     + //TODO
 + #### Сall on a speakerphone
+     + //TODO
 + #### Mooving in queue
+     + //TODO
  
   
  
-  Thanks!
+Thanks!
   
-  [To begining](https://github.com/LehaZhigimont/Taxi/blob/main/README.md#java-project-implemting-queuetaxi)
+[To begining](https://github.com/LehaZhigimont/Taxi/blob/main/README.md#java-project-implemting-queuetaxi)
   
