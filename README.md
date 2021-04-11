@@ -18,7 +18,10 @@
 
 + Project development that implements a queue of customers and printin out their coupon with a number, moving a customer in queue, makin a call on a speakerphone.
 + #### Ordered queue
-
++ #### Show on screen
++ #### Print coupon
++ #### Сall on a speakerphone
++ #### Mooving in queue
  
   
  
