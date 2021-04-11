@@ -11,4 +11,4 @@
 
 ======================================================================================
 
-This program works with third party applications such as HDPlayer which displays information on the screen.
+<h7> This program works with third party applications such as HDPlayer which displays information on the screen.
