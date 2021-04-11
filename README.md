@@ -1,7 +1,7 @@
 ---
 # Java project implemting QueueTaxi
 ---
-* <h7>Main tasks of this project: 
+<h7>Main tasks of this project: 
   
   + Ordered queue
   + Show on screen
@@ -11,10 +11,10 @@
   
 ---
 
-* <h7> This program works with third party applications such as HDPlayer which displays information on the screen.
+<h7> This program works with third party applications such as HDPlayer which displays information on the screen.
   
 ---
-* <h7> Detailed about the project and [main tasks](https://github.com/LehaZhigimont/Taxi/blob/main/README.md#Main-tasks-of-this-project).
+<h7> Detailed about the project and [main tasks](https://github.com/LehaZhigimont/Taxi/blob/main/README.md#Main-tasks-of-this-project).
 
 
 
