@@ -24,8 +24,55 @@
   
   
   
+  sdf
+  sad
+  f
+  asdf
+  as
+  df
+  asd
+  f
+  sd
+  f
+  sd
+  f
+  sdf
+  a
+  sdf
+  asd
+  f
+  asd
+  f
+  sdf
+  
+  asdf
+  as
+  df
+  sd
+  f
+  asdf
+  as
+  df
+  asd
+  f
+  asdf
+  asd
+  f
+  sadf
+  a
+  sdf
+  sdf
+  as
+  df
+  as
+  dfa
+  sdf
+  asdf
+  asd
+  f
   
   
+  [main tasks](https://github.com/LehaZhigimont/Taxi/blob/main/README.md#Main-tasks-of-this-project)
   
   [To begining](https://github.com/LehaZhigimont/Taxi/blob/main/README.md#java-project-implemting-queuetaxi)
   
