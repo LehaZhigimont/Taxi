@@ -26,7 +26,7 @@
 + #### Print coupon
      + A coupon with a queue number is printed at the time of customer registration, when the button is pressed, the customer is recorded in the program, show on the screenboard and the coupon is printed. There is also a method that allows you to change some information on the coupon.
 + #### Сall on a speakerphone
-     + //TODO
+     + When you press the "next" button, the sound is played through the speakers. Sounds are recorded in a file up to a certain amount, then, according to the idea of the program, the maximum number of 100 clients, then reset to zero.
 + #### Mooving in queue
      + //TODO
  
