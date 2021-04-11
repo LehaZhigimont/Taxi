@@ -3,11 +3,11 @@
 ---
 ### <h7>Main tasks of this project: 
   
-  + Ordered queue
-  + Show on screen
-  + Print coupon
-  + Сall on a speakerphone
-  + Mooving in queue
+  + [Ordered queue](https://github.com/LehaZhigimont/Taxi/blob/main/README.md#Ordered-queue)
+  + [Show on screen](https://github.com/LehaZhigimont/Taxi/blob/main/README.md#Show-on-screen)
+  + [Print coupon](https://github.com/LehaZhigimont/Taxi/blob/main/README.md#Print-coupon)
+  + [Сall on a speakerphone](https://github.com/LehaZhigimont/Taxi/blob/main/README.md#Сall-on-a-speakerphone)
+  + [Mooving in queue](https://github.com/LehaZhigimont/Taxi/blob/main/README.md#Mooving-in-queue)
   
 ---
 
