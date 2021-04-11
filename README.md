@@ -13,7 +13,7 @@
 
 <h7> This program works with third party applications such as HDPlayer which displays information on the screenboard. It implements a line of taxis on the territory of the Minsk National Airport. Designed to control the queue. The screenboard show the current count and sequence. When registering a customer, printed a coupon with a number, if the customer has a priority, it moves in the queue.
   
-The program makes it possible to add to the queue, delete, move. Change the printout information other than the number. See the history of the queues. Call the next in line on the speakerphone.
+The program makes it possible to add , delete, move to the queue. Change the printout information other than the number. See the history of the queues. Call the next in line on the speakerphone.
   
 ---
 ### <h7> Detailed about the project and [main tasks](https://github.com/LehaZhigimont/Taxi/blob/main/README.md#Main-tasks-of-this-project).
