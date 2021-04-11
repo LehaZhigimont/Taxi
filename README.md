@@ -1,7 +1,7 @@
-# Java project implemting QueueTaxi
+# Java project implemting QueueTaxi #
 ------------------
 
-<h3>Main tasks of this project:
+<h4>Main tasks of this project: 
   
   + Ordered queue
   + Show on screen
