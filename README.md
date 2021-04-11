@@ -1,5 +1,5 @@
 ---
-# <h1>Java project implemting QueueTaxi
+# <h1>Java project implemting QueueTaxi :taxi:
 ---
 ### <h7>Main tasks of this project: 
   
